@@ -40,4 +40,4 @@ async def love(ctx, user1: discord.Member, user2: discord.Member):
     await ctx.send(file=file)
     await ctx.send("Made with ❤️ by @ronit_in")
 
-bot.run('YOUR_DISCORD_BOT_TOKEN')
+bot.run('MTI5NzI1NzY2NDQ4NDczNzAyNA.GFsjfE.9kemaJghRmIKC3oapHJqhE8J52qQva_4icx0bk')
